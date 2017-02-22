@@ -1,0 +1,19 @@
+{
+  "name": "recipes-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Señas",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.16.0",
+    "eslint-loader": "^1.6.2",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Ejemplo de recetas del libro LearningReact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davsensan/LearningReacts.git"
+  },
+  "author": "David Señas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davsensan/LearningReacts/issues"
+  },
+  "homepage": "https://github.com/davsensan/LearningReacts#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}
